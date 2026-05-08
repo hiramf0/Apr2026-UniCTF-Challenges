@@ -1,0 +1,5 @@
+1. What is the name of the song?
+2. What is the genre of this song?
+3. That's an odd comment... What's the flag?
+4. It seems the message talks about some encoding used to hide our final flag. Let's look for any info about the encoding inside the MP3 file. What is the encoding used? Enter everything inside the single quotes.
+5. What is the final flag?
